@@ -1,0 +1,10 @@
+1. Common ways to create thread
+2. Why creating or starting a java thread is overhead?
+3. Who determines how threads run?
+4. What happens when multiple threads access shared mutable data?
+5. Thread volatile
+6. Intrinsic Lock
+7. Extrinsic Lock
+8. Thread Pool Executor Service
+9. Thread Pool Sizing and CPU Context Switching Reference
+10. Java Memory Model
