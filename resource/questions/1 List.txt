@@ -1,4 +1,4 @@
-1. Common ways to create thread
+1. Thread creation - Common Ways, Best Practises, Do's and Dont's
 2. Why creating or starting a java thread is overhead?
 3. Who determines how threads run?
 4. What happens when multiple threads access shared mutable data?
